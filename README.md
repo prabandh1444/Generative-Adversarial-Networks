@@ -65,8 +65,10 @@ G*,F* = min max V (D,G) LGAN (G,DY,X,Y)+ LGAN (F,DX,Y,X)+ λLcyc (G,F)
 
 We use this model to transfer the style of great painter(monet) into camera photos:
 A are the set of cam photos while B are drawn by monet
+
+
 ![image](https://github.com/prabandh1444/Generative-Adversarial-Networks/assets/111416767/7b43c9fe-236d-43b7-b1e3-cea2c9da2fec)
 
+![image](https://github.com/prabandh1444/Generative-Adversarial-Networks/assets/111416767/4c4ff720-425e-4c80-bcb6-c15f88356fc1)
 
-![image](https://github.com/prabandh1444/Generative-Adversarial-Networks/assets/111416767/2b12b016-dad1-4cd2-baf8-4d32391ac696)
 
